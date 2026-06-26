@@ -154,6 +154,6 @@ The custom Linear Regression implementation produced nearly identical results to
 
 ## 👤 Author
 
-**Kshitija Shejal**
+**Kshitijaa Shejal**
 
 If you found this project helpful, feel free to ⭐ the repository.
